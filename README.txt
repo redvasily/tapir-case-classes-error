@@ -1,0 +1,1 @@
+Run: sbt "runMain example.Hello"
